@@ -1,0 +1,13 @@
+body{
+	background-color: grey;
+	color: white
+}
+#headWrapper{
+	background-color: green;
+}
+#bodyWrapper{
+	background-color: blue;
+}
+#footer{
+	background-color: red;
+}
